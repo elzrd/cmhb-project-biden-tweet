@@ -15,7 +15,7 @@ _Student number 211663_
 
 
 This study aims at analysing the tweets of the actual president of USA Joe Biden during elections months.  
-The purpose is to see how the candidate engage with the citizens via Twitter during the coronavirus outbreak through sentiment analysis. The analysis is performed through NLP tools such as NLTK and NRClex. Results show that Biden adopted an overall winning approach, reaching an increasing number of supporters throughout months. 
+The purpose is to see how the candidate engaged with the citizens via Twitter during the coronavirus outbreak through sentiment analysis. The analysis is performed through NLP tools such as NLTK and NRClex. Results show that Biden adopted an overall winning approach, reaching an increasing number of supporters throughout months. 
 
 
 
